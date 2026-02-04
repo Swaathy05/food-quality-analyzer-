@@ -2,6 +2,8 @@
 
 An AI-powered web application that analyzes nutrition labels to provide comprehensive health insights, chemical safety assessments, and personalized dietary recommendations.
 
+## Try: https://nutriscan0.streamlit.app/ 
+
 ## ✨ Features
 
 - **🖼️ OCR Text Extraction**: Upload nutrition label images and extract text automatically
@@ -36,3 +38,4 @@ An AI-powered web application that analyzes nutrition labels to provide comprehe
    - Nutrition quality score
 
 4. **Ask Questions**: Type specific questions about the product for detailed answers
+
