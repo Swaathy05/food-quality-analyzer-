@@ -1,22 +1,22 @@
-# Food Quality Analyzer - Streamlit Cloud Requirements
+# Food Quality Analyzer - Streamlit Cloud Requirements (Python 3.13 Compatible)
 
 # Core Framework
-streamlit==1.28.1
+streamlit>=1.28.1
 
 # AI and ML
-langchain-core==0.2.43
-langchain-groq==0.1.5
-groq==0.11.0
+langchain-core>=0.2.43
+langchain-groq>=0.1.5
+groq>=0.11.0
 
 # Image Processing and OCR
-pillow==10.0.1
-opencv-python-headless==4.8.1.78
-pytesseract==0.3.10
-numpy==1.24.3
+pillow>=10.2.0
+opencv-python-headless>=4.8.1.78
+pytesseract>=0.3.10
+numpy>=1.26.0
 
 # Data Processing
-pydantic==2.12.5
+pydantic>=2.5.0
 
 # Utilities
-python-dotenv==1.0.0
-requests==2.31.0
+python-dotenv>=1.0.0
+requests>=2.31.0
